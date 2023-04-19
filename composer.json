@@ -1,0 +1,19 @@
+{
+    "name": "penggopeng/httptool",
+    "description": "a simple httptool",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Penggopeng\\Httptool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wangpeng",
+            "email": "912157513@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
